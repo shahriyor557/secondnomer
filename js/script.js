@@ -1,4 +1,4 @@
-let deadline = "2024-04-15"
+let deadline = "2024-04git branch -M main-30"
 
 
 function getRemainingTime(dl){
